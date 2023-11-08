@@ -1,4 +1,5 @@
 I am a Full Stack Developer, Blockchain Developer, AI image/video generator&editor.
+
 💧 FrontEnd: React, Next.js, Remix, Vue, Redux, Mobx,  Vuex, TailwindCSS, SCSS, MUI, Styled-component, Bootstrap,  Vuetify, Javascript, ES6+, Typescript
 
 🔸 BackEnd: Node.js, ExpressJS, Nest.js, Python, Django, Flask, AWS, Digital Ocen, Serverless, RESTFul API, PostgreSQL, Artificail Intelligence
